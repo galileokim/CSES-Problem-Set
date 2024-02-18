@@ -39,6 +39,7 @@ int main() {
 		}
 	}
 
+    cout << "YES" << endl;
 	cout << set.size() << endl;
 
 	for (vector<long long int>::size_type i = 0; i < set.size(); i++) {
